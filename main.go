@@ -11,7 +11,6 @@ import (
     "strings"
     "github.com/google/uuid"
     "time"
-
 )
 
 type Receipt struct {
