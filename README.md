@@ -30,6 +30,7 @@ Ensure you have the Go programming environment installed on your system. You can
    The service will start on `http://localhost:8080`.
 
    ***Example***:
+   
    <img width="528" alt="Screen Shot 2024-01-21 at 9 19 47 PM" src="https://github.com/yanjin001/receipt-processor/assets/62823935/f92bad41-631a-4749-a5a3-378ed81dcde9">
 
 
